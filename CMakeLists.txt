@@ -10,3 +10,5 @@ endfunction()
 
 exe(day1a)
 exe(day1b)
+exe(day2a)
+exe(day2b)
